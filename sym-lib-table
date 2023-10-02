@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "backplane")(type "KiCad")(uri "C:/Users/MadCat/Documents/GitHub/deltas-backplane/Libs/backplane.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Backplane")(type "KiCad")(uri "C:/Users/MadCat/Documents/GitHub/deltas-backplane/Libs/Backplane.pretty")(options "")(descr ""))
+)
