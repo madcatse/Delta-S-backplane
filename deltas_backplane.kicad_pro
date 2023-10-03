@@ -466,7 +466,9 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(SW1-A)": "power"
+    },
     "netclass_patterns": [
       {
         "netclass": "power",
