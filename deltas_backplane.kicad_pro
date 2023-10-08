@@ -467,7 +467,7 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "Net-(JP1-B)": "power"
+      "Net-(#FLG02-pwr)": "power"
     },
     "netclass_patterns": [
       {
