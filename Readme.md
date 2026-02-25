@@ -18,8 +18,8 @@
 
 ### Ключевые возможности
 
-- **4 слота СНП для модулей расширения** (разъёмы J1–J4).
-- **Системный вход от компьютера «Дельта‑С»** через угловой СНП‑разъём (J5).
+- **4 слота СНП для модулей расширения** (разъёмы J2–J5).
+- **Системный вход от компьютера «Дельта‑С»** через угловой СНП‑разъём (J1).
 - **Выводы на внешние шины**:
   - J6 — разъём ZX‑BUS;
   - J7 — edge‑разъём формата ZX Spectrum bus.
@@ -37,8 +37,8 @@
 
 | Обозначение | Назначение |
 |---|---|
-| J1, J2, J3, J4 | Слоты СНП для плат расширения |
-| J5 | Входной разъём к компьютеру «Дельта‑С» (магистраль бекплейна) |
+| J2, J3, J4, J5 | Слоты СНП для плат расширения |
+| J1 | Входной разъём к компьютеру «Дельта‑С» (магистраль бекплейна) |
 | J6 | Вывод шины ZX‑BUS |
 | J7 | Edge‑разъём шины (ZX Spectrum bus format) |
 | J8 | Внешнее питание через DC barrel jack |
@@ -91,8 +91,8 @@ It is designed to:
 
 ### Key features
 
-- **4 SNP expansion slots** (J1–J4).
-- **Host connection to Delta‑S** via angled SNP connector (J5).
+- **4 SNP expansion slots** (J2–J5).
+- **Host connection to Delta‑S** via angled SNP connector (J1).
 - **External bus outputs**:
   - J6 — ZX‑BUS connector;
   - J7 — edge connector in ZX Spectrum bus format.
@@ -110,8 +110,8 @@ It is designed to:
 
 | Designator | Function |
 |---|---|
-| J1, J2, J3, J4 | SNP slots for expansion cards |
-| J5 | Upstream connector to Delta‑S host bus |
+| J2, J3, J4, J5 | SNP slots for expansion cards |
+| J1 | Upstream connector to Delta‑S host bus |
 | J6 | ZX‑BUS output |
 | J7 | Edge bus connector (ZX Spectrum format) |
 | J8 | External power input (DC barrel jack) |
